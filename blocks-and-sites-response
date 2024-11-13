@@ -1,0 +1,165 @@
+{  
+    "webhookurl": "url",
+    "wstoken": "token",
+    "stage": {
+        "id": 1,
+        "scheduleid": 1,
+        "audienceranktype": "preferred-experiences",
+        "courseids": "1,5,7,8,9,10",
+        "numberofgeneratediterations": 5,
+        "respectcapacities": "blocks-and-sites",
+
+        "iteration":{
+            "iteration id" :1,
+        
+                 "users": [
+                            {
+                              "userid": 1,
+                              "courseallocated": [
+                                                  {       
+                                                      "courseid": 1,
+                                                     "experiencesallocated": [
+                                                                               {
+                                                                                 "experienceid": 1,
+                                                                                  "blockid": 1,
+                                                                                  "siteid": 1
+                                                                               }
+                                                                              ]
+                                                   },
+                                                   {
+                                                     "courseid": 2,
+                                                      "experiencesallocated": [
+                                                                                 {
+                                                                                   "experienceid": 5,
+                                                                                   "blockid": 1,
+                                                                                   "siteid": 1,
+                                                                                 }
+                                                                               ]
+                                                     }
+                                                     {
+                                                      "courseid": 3,
+                                                       "experiencesallocated": [
+                                                                                 {
+                                                                                   "experienceid": 8,                             
+                                                                                    "blockid": 2,
+                                                                                    "siteid": 3,
+                                                                                 }
+                                                                                ]
+                                                    }
+                             
+                            }
+                         
+
+                            { "userid": 2,
+                              "courseallocated":[
+                                                    {
+                                                     "courseid": 5,
+                                                      "experiencesallocated": [
+                                                                              {
+                                                                                  "experienceid": 1,
+                                                                                  "blockid": 3,
+                                                                                   "siteid": 6
+                                                                              }
+                                                                               ]
+                                                     },  
+                                                     {
+                                                       "courseid": 4,
+                                                       "experiencesallocated": [
+                                                                                 {
+                                                                                  "experienceid": 8,
+                                                                                  "blockid": 1,
+                                                                                 "siteid": 1,
+                                                                                 }
+                                                                                ]
+                                                     }
+                                                    {
+                                                        "courseid": 6,
+                                                        "experiencesallocated": [
+                                                                                 {
+                                                                                  "experienceid": 9,
+                                                                                   "blockid": 2,
+                                                                                   "siteid": 3,
+                                                                                 }
+                           
+                                                                                ]
+                                                     }    
+                            }
+        
+                        ]
+
+    "iteration id" :2,
+        
+        "users": [
+            {
+                "userid": 1,
+                "courseallocated": [
+                    {
+                        "courseid": 1,
+                        "experiencesallocated": [
+                                                  {
+                                                    "experienceid": 1,
+                                                       "blockid": 1,
+                                                     "siteid": 1
+                                                  }
+                                                 ]
+                    },
+                    {
+                        "courseid": 2,
+                        "experiencesallocated": [
+                                                 {
+                                                    "experienceid": 5,
+                                                     "blockid": 1,
+                                                     "siteid": 1,
+                                                 }
+                                                ]
+                    }
+                    {
+                        "courseid": 3,
+                        "experiencesallocated": [
+                                                 {
+                                                    "experienceid": 8,                             
+                                                    "blockid": 2,
+                                                    "siteid": 3,    
+                                                 }
+                                                ]
+                    }
+            }
+            
+
+            { "userid": 2,
+                "courseallocated": [
+                    {
+                        "courseid": 5,
+                        "experiencesallocated": [
+                                                 {
+                                                   "experienceid": 1,
+                                                   "blockid": 3,
+                                                   "siteid": 6
+                                                 }
+                                                ]
+                    },
+                    {
+                        "courseid": 4,
+                        "experiencesallocated": [
+                                                 {
+                                                  "experienceid": 8,
+                                                   "blockid": 1,
+                                                   "siteid": 1,
+                                                 }
+                                                ]
+                    }
+                    {
+                        "courseid": 6,
+                        "coursename": "Course 6",
+                        "experiencesallocated": [
+                                                 {
+                                                  "experienceid": 9,
+                                                  "blockid": 2,
+                                                  "siteid": 3,
+                                                 }
+                                                ]
+                    }    
+          ]    
+      }
+    }  
+ }
