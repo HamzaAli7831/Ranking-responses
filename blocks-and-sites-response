@@ -14,18 +14,11 @@
                         "courseid": 29,
                         "experiencesallocated": [
                             {
-                                "experienceId": 51,
-                                "blockId": 27,
-                                "siteId": 3,
-                                "rankId": 1,
-                                "instructorId": null
-                            },
-                            {
-                                "experienceId": 55,
-                                "blockId": 27,
-                                "siteId": 19,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 51,
+                                "blockid": 27,
+                                "siteid": 3,
+                                "rankid": 1,
+                                "instructorid": null
                             }
                         ]
                     },
@@ -33,11 +26,18 @@
                         "courseid": 30,
                         "experiencesallocated": [
                             {
-                                "experienceId": 53,
-                                "blockId": 27,
-                                "siteId": 44,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 53,
+                                "blockid": 27,
+                                "siteid": 44,
+                                "rankid": 1,
+                                "instructorid": null
+                            },
+                            {
+                                "experienceid": 54,
+                                "blockid": 27,
+                                "siteid": 2,
+                                "rankid": 2,
+                                "instructorid": null
                             }
                         ]
                     }
@@ -50,18 +50,11 @@
                         "courseid": 29,
                         "experiencesallocated": [
                             {
-                                "experienceId": 55,
-                                "blockId": 27,
-                                "siteId": 19,
-                                "rankId": 1,
-                                "instructorId": null
-                            },
-                            {
-                                "experienceId": 51,
-                                "blockId": 27,
-                                "siteId": 3,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 55,
+                                "blockid": 27,
+                                "siteid": 19,
+                                "rankid": 1,
+                                "instructorid": null
                             }
                         ]
                     },
@@ -69,11 +62,18 @@
                         "courseid": 30,
                         "experiencesallocated": [
                             {
-                                "experienceId": 54,
-                                "blockId": 27,
-                                "siteId": 2,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 54,
+                                "blockid": 27,
+                                "siteid": 2,
+                                "rankid": 1,
+                                "instructorid": null
+                            },
+                            {
+                                "experienceid": 53,
+                                "blockid": 27,
+                                "siteid": 44,
+                                "rankid": 2,
+                                "instructorid": null
                             }
                         ]
                     }
@@ -86,18 +86,11 @@
                         "courseid": 29,
                         "experiencesallocated": [
                             {
-                                "experienceId": 51,
-                                "blockId": 27,
-                                "siteId": 3,
-                                "rankId": 1,
-                                "instructorId": null
-                            },
-                            {
-                                "experienceId": 55,
-                                "blockId": 27,
-                                "siteId": 19,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 51,
+                                "blockid": 27,
+                                "siteid": 3,
+                                "rankid": 1,
+                                "instructorid": null
                             }
                         ]
                     },
@@ -105,11 +98,18 @@
                         "courseid": 30,
                         "experiencesallocated": [
                             {
-                                "experienceId": 53,
-                                "blockId": 27,
-                                "siteId": 44,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 53,
+                                "blockid": 27,
+                                "siteid": 44,
+                                "rankid": 1,
+                                "instructorid": null
+                            },
+                            {
+                                "experienceid": 54,
+                                "blockid": 27,
+                                "siteid": 2,
+                                "rankid": 2,
+                                "instructorid": null
                             }
                         ]
                     }
@@ -122,18 +122,11 @@
                         "courseid": 29,
                         "experiencesallocated": [
                             {
-                                "experienceId": 51,
-                                "blockId": 27,
-                                "siteId": 3,
-                                "rankId": null,
-                                "instructorId": null
-                            },
-                            {
-                                "experienceId": 52,
-                                "blockId": 27,
-                                "siteId": 2,
-                                "rankId": null,
-                                "instructorId": null
+                                "experienceid": 51,
+                                "blockid": 27,
+                                "siteid": 3,
+                                "rankid": null,
+                                "instructorid": null
                             }
                         ]
                     },
@@ -141,11 +134,18 @@
                         "courseid": 30,
                         "experiencesallocated": [
                             {
-                                "experienceId": 53,
-                                "blockId": 27,
-                                "siteId": 44,
-                                "rankId": null,
-                                "instructorId": null
+                                "experienceid": 53,
+                                "blockid": 27,
+                                "siteid": 44,
+                                "rankid": null,
+                                "instructorid": null
+                            },
+                            {
+                                "experienceid": 54,
+                                "blockid": 27,
+                                "siteid": 2,
+                                "rankid": null,
+                                "instructorid": null
                             }
                         ]
                     }
@@ -158,18 +158,11 @@
                         "courseid": 29,
                         "experiencesallocated": [
                             {
-                                "experienceId": 51,
-                                "blockId": 27,
-                                "siteId": 3,
-                                "rankId": 1,
-                                "instructorId": null
-                            },
-                            {
-                                "experienceId": 55,
-                                "blockId": 27,
-                                "siteId": 19,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 51,
+                                "blockid": 27,
+                                "siteid": 3,
+                                "rankid": 1,
+                                "instructorid": null
                             }
                         ]
                     },
@@ -177,11 +170,18 @@
                         "courseid": 30,
                         "experiencesallocated": [
                             {
-                                "experienceId": 53,
-                                "blockId": 27,
-                                "siteId": 44,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 53,
+                                "blockid": 27,
+                                "siteid": 44,
+                                "rankid": 1,
+                                "instructorid": null
+                            },
+                            {
+                                "experienceid": 54,
+                                "blockid": 27,
+                                "siteid": 2,
+                                "rankid": 2,
+                                "instructorid": null
                             }
                         ]
                     }
@@ -194,18 +194,11 @@
                         "courseid": 29,
                         "experiencesallocated": [
                             {
-                                "experienceId": 51,
-                                "blockId": 27,
-                                "siteId": 3,
-                                "rankId": 1,
-                                "instructorId": null
-                            },
-                            {
-                                "experienceId": 55,
-                                "blockId": 27,
-                                "siteId": 19,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 51,
+                                "blockid": 27,
+                                "siteid": 3,
+                                "rankid": 1,
+                                "instructorid": null
                             }
                         ]
                     },
@@ -213,11 +206,18 @@
                         "courseid": 30,
                         "experiencesallocated": [
                             {
-                                "experienceId": 53,
-                                "blockId": 28,
-                                "siteId": 44,
-                                "rankId": 1,
-                                "instructorId": null
+                                "experienceid": 53,
+                                "blockid": 28,
+                                "siteid": 44,
+                                "rankid": 1,
+                                "instructorid": null
+                            },
+                            {
+                                "experienceid": 54,
+                                "blockid": 27,
+                                "siteid": 2,
+                                "rankid": 2,
+                                "instructorid": null
                             }
                         ]
                     }
